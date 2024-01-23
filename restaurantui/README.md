@@ -1,3 +1,8 @@
+# Environment
+1. install angular-cli 16.1.8 (bash cmd: npm install -g @angular/cli@16.1.8)
+2. install node version 18.13.0 (bash cmd: npm install)
+3. Start the project by using bash cmd: "ng serve --open" (ensure you have cd into restaurantui folder)
+
 # Restaurantui
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
