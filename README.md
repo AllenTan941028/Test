@@ -67,3 +67,8 @@ CREATE TABLE `import_progress` (
    **Parameters**: fromDate (yyyy-MM-dd), toDate (yyyy-MM-dd), displayTotalSales (1/0), game_no.
    ([gamesales/images
 /TotalSales_EndPoint.JPG](https://github.com/AllenTan941028/Test/blob/main/gamesales/images/TotalSales_EndPoint.JPG))
+
+4. **Auto Generate CSV endpoint**
+   **Full url** - localhost:8080/game/csv
+   **Parameter**: totalOfRecords
+   Please do use any browser to access this endpoint link, the csv file will be auto generated and downloaded to your local.
